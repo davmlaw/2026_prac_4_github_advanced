@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 # 2025 - Practical - GitHub repositories
+=======
+# 2025 - Assignment 6 - University-of-Adelaide-Bx-Masters / BIOTECH-7005-BIOINF-3000
+
+See [Assignment 6 page](https://university-of-adelaide-bx-masters.github.io/BIOTECH-7005-BIOINF-3000/Assignments/Assignment6.html)
+
+## Contact details
+
+david.lawrence@sa.gov.au
+>>>>>>> 0d9fae40cf77032e4bc5066be59ab807982b3671
 
 ## Branches
 
